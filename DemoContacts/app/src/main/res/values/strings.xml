@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoContacts</string>
+
+    <string name="account_type">com.example.sif.democontacts</string>
+    <string name="Dewils_House">Dewils House</string>
+    <string name="Account_name">My Account</string>
+
+</resources>
